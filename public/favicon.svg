@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1d1411"/>
+  <path d="M14 10h36v20c0 13-8 21-18 26C22 51 14 43 14 30z" fill="#7a1f2b" stroke="#c99a2e" stroke-width="3"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#e6c56a">CRF</text>
+</svg>
